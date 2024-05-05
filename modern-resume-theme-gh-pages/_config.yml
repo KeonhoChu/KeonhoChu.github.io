@@ -54,7 +54,7 @@ about_content: |  # this will include new lines to allow paragraphs
   I am most skilled in: <mark>PYTHON</mark>
 
 content:
-  - title: <mark>Korea Disease Control and Prevention Agency</mark>
+  - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 1
          # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -76,7 +76,7 @@ content:
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
     
 content:
-  - title: <mark>Korea Disease Control and Prevention Agency</mark>
+  - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 2
          # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -97,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 content:
-  - title: <mark>Korea Disease Control and Prevention Agency</mark>
+  - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 3
          # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -118,7 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 content:
-  - title: <mark>Korea Disease Control and Prevention Agency</mark>
+  - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 4
          # Title for the section
     layout: list # Type of content section (list/text)
     content:
