@@ -86,7 +86,7 @@ content:
           A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
 
       - layout: top-middle
-        title: Analysis of the frequency of dengue fever among domestic travelers          
+        title: Analysis of the frequency of dengue fever among domestic travelers
         description: |
           Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
 
@@ -99,7 +99,6 @@ content:
         title: Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
         description: |
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
-
 
   
   - title: Experience # Title for the section
