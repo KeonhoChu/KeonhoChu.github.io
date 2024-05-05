@@ -83,26 +83,30 @@ content:
   - title: Diclosed Project in KDCA
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: Infectious Disease Pandemic Outcome Prediction Project
         description: |
           A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
 
-      - layout: top-middle
+      - layout: top-left
         title: Analysis of the frequency of dengue fever among domestic travelers
+
         description: |
           Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
 
-      - layout: top-middle
+      - layout: top-left
         title: A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic
+       
         description: |
           Development of a predictive program to anticipate future outbreaks of norovirus by considering the impact of the coronavirus pandemic on the timing and patterns of norovirus epidemics.
 
-      - layout: top-middle
+      - layout: top-left
         title: Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
+       
         description: |
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
-      - layout: top-middle
+    
+      - layout: top-left
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be disclosed.  
 
   - title: Open Projects
