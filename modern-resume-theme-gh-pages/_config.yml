@@ -82,25 +82,24 @@ content:
     content:
       - layout: top-middle
         title: Infectious Disease Pandemic Outcome Prediction Project
-          
         description: |
-          As a project to predict the occurrence of infectious diseases caused by Pandemic, regression analysis was used using <mark>ML</mark> using table data.
+          A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
 
       - layout: top-middle
         title: Analysis of the frequency of dengue fever among domestic travelers          
         description: |
-          Second project
+          Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
 
       - layout: top-middle
         title: A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic
         description: |
-          Third project
+          Development of a predictive program to anticipate future outbreaks of norovirus by considering the impact of the coronavirus pandemic on the timing and patterns of norovirus epidemics.
 
       - layout: top-middle
         title: Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
         description: |
-          Fourth project
-    
+          Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
+
 
   
   - title: Experience # Title for the section
