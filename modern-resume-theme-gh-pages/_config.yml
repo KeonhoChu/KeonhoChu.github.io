@@ -100,21 +100,22 @@ content:
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
-content:
-  - layout: list
-    title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
-    link: github.com/Keonhochu
-    link_text: Project Website
-    additional_links:
-      - title: KeonhoChu/SNUDH---AI
-        icon: fab fa-github
-        url: github.com/KeonhoChu/SNUDH---AI
-      - title: 2023 HealthCare AI Competition SNUDH
-        icon: fab fa-github
-        url: https://github.com/KeonhoChu/SNUDH---AI
-    quote: "note: 서울대"
-    description: |
-      dfdfs
+  - title: Open Projects
+    content:
+      - layout: list
+        title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
+        link: github.com/Keonhochu
+        link_text: Project Website
+        additional_links:
+          - title: KeonhoChu/SNUDH---AI
+            icon: fab fa-github
+            url: github.com/KeonhoChu/SNUDH---AI
+          - title: 2023 HealthCare AI Competition SNUDH
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/SNUDH---AI
+        quote: "note: 서울대"
+        description: |
+          dfdfs
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
