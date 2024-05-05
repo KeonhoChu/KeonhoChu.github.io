@@ -47,8 +47,10 @@ linkedin_username: keonho-chu
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
-  Hi, my name's Keonho and I'm a junior Ai Engineer. |
-  I have experience in development and artificial intelligence and am currently in charge of LLM artificial intelligence development in my startup.|
+  Hi, my name's Keonho and I'm a junior Ai Engineer.
+  
+  I have experience in development and artificial intelligence and am currently in charge of LLM artificial intelligence development in my startup.
+  
   I am most skilled in: <mark>PYTHON</mark>
 
 content:
