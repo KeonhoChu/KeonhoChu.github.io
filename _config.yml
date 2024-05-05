@@ -41,6 +41,13 @@ linkedin_username: keonho-chu
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-N33LLK7MJV"
+    anonymize_ip         : # true, false (default)
 
 # About Section
 # about_title: About Me
@@ -184,7 +191,7 @@ content:
     content:
       - layout: left
         title: Konkuk University  
-        caption: 2015 - 2021
+        caption: March 2015 - February 2021
         sub_title: BS Biomedical Engineering 
         quote: >
            "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
@@ -193,7 +200,7 @@ content:
     
       - layout: left
         title: Completion of S/W development and application expert training using medical bio-AI (KDT)
-        caption: 2023.02 - 2023.07
+        caption: February 2023 - July 2023
         sub_title: Linked to Chungbuk National University Hospital
         quote: >
             "Continuous learning is the key to unlocking your full potential."
@@ -203,7 +210,7 @@ content:
     
       - layout: left
         title: Completion of the Tableau boot camp
-        caption: 2023.10 - 2023.11
+        caption: October 2023 - November 2023
         sub_title: Tableau
         quote: >
            "Success is not final, failure is not fatal: It is the courage to continue that counts."
@@ -213,7 +220,7 @@ content:
     
       - layout: left
         title: LG Aimers/Data Intelligence
-        caption: 2024.01 ~ 2024.02
+        caption: January 2024 - February 2024
         sub_title: LG AI researcher
         quote: >
            "Innovation distinguishes between a leader and a follower."
