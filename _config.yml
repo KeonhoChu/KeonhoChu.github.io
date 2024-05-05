@@ -50,8 +50,7 @@ about_content: |  # this will include new lines to allow paragraphs
   
   I have experience in development and artificial intelligence and am currently in charge of LLM artificial intelligence development in my startup.
   
-  I am most skilled in: ![<mark>PYTHON</mark>](https://i.namu.wiki/i/mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.svg)
-
+  I am most skilled in: <img src="https://i.namu.wiki/i/mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.svg" alt="PYTHON" width="250" height="100">
 # content:
 #   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 1
 #          # Title for the section
@@ -220,7 +219,43 @@ content:
            "Innovation distinguishes between a leader and a follower."
         description: |
             During my time at LG Aimers/Data Intelligence as an AI researcher, I was involved in cutting-edge research and development projects focused on advancing artificial intelligence technologies. My responsibilities included conducting experiments, analyzing data, and developing algorithms to enhance the performance of AI systems. I collaborated closely with multidisciplinary teams to explore new ideas, solve complex problems, and deliver innovative solutions that meet the needs of LG's customers and stakeholders.
-      
+ 
+  - title: Certificate
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: KT - Aice
+        sub_title: Date of acquisition
+        caption: 2023-10-28
+        quote: >
+          Certificate Issuing Authority: <mark>KT</mark>
+        description: |
+          <div style="width: 50%; margin: 0 auto;">
+            <img src="https://img.hankyung.com/photo/202307/AA.33883746.1.jpg" alt="kt aice" style="width: 50%;">
+          </div>
+      - layout: left
+        border: weak
+        title: Azure AI Fundamentals AI-900
+        sub_title: Date of acquisition
+        caption: 2023-07-14
+        quote: >
+          Certificate Issuing Authority: <mark>Microsoft</mark>
+        description: |
+          <div style="width: 50%; margin: 0 auto;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3cSI_Dsx2pWlonpWJpbwUC-Eg44Y-FO1wGGTZKd1Hg&s" alt="azure" style="width: 50%;">
+          </div>
+      - layout: left
+        border: weak
+        title: ADSP (Advanced Data Analytics Semi-Professional)
+        sub_title: Date of acquisition
+        caption: 2023-06-19
+        quote: >
+          Certificate Issuing Authority: <mark>Korea Data Agency</mark>
+        description: |
+          <div style="width: 50%; margin: 0 auto;">
+            <img src="https://velog.velcdn.com/images/zinu/post/313d9059-6d4e-4371-a386-aa068d478aa6/image.png" alt="adsp" style="width: 50%;">
+          </div>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
