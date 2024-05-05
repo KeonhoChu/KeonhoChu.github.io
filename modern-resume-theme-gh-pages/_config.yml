@@ -60,15 +60,15 @@ about_content: |  # this will include new lines to allow paragraphs
 #     content:
 #       - layout: top-middle
 #         title: Infectious Disease Pandemic Outcome Prediction Project
-#         #link: github.com/sproogen
-#         # link_text: Project Website
-#         #additional_links:
-#          # - title:  sproogen/modern-resume-theme
-#           #  icon: fab fa-github
-#            # url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         link: github.com/sproogen
+#         link_text: Project Website
+#         additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 #         quote: |
 #           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
@@ -109,10 +109,10 @@ content:
         link: github.com/Keonhochu
         link_text: Project Website
         additional_links:
-          - title: KeonhoChu/SNUDH---AI
-            icon: fab fa-github
-            url: https://github.com/KeonhoChu/SNUDH---AI
-          - title: "2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project]"
+         - title:  KeonhoChu/SNUDH---AI
+           icon: fab fa-github
+           url: github.com/KeonhoChu/SNUDH---AI
+          - title:  2023 HealthCare AI Competetion SNUDH
             icon: fab fa-github
             url: https://github.com/KeonhoChu/SNUDH---AI
         quote: |
