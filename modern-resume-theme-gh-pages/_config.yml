@@ -69,11 +69,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: |
-          This project was carried out by the Virus Analysis Division of the Korea Centers for Disease Control and Prevention.
-         
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
+         This project was carried out by the Virus Analysis Division of the <mark>Korea Disease Control and Prevention Agency</mark>.
+         
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
    
   - title: Experience # Title for the section
