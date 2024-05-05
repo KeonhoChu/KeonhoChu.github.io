@@ -101,8 +101,26 @@ content:
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
 content:
-  - title: Open Projects
-         # Title for the section
+  - title: "Open Projects" # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
+        link: github.com/Keonhochu
+        link_text: Project Website
+        additional_links:
+          - title: KeonhoChu/SNUDH---AI
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/SNUDH---AI
+          - title: "2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project]"
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/SNUDH---AI
+        quote: |
+          note: 서울대
+        description: | # this will include new lines to allow paragraphs
+          dfdfs
+
+
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
