@@ -6,23 +6,22 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Keonho Chu
+title: Ai Engineer
+email: gunho1358@naver.com
+website: www.github.com/keonhoChu
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  KeonhoChu
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: __chuuuuoooo
+linkedin_username: Keonho Chu
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
