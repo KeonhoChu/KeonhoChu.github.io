@@ -137,7 +137,7 @@ content:
         quote: >
           Award-winning performance: final (59th/844) 
         description: | # this will include new lines to allow paragraphs
-          ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
+          ![LG Aimers](https://www.lgresearch.ai/data/upload/image/blog/LG_AI_Research_LG_Aimer_Hackathon_thumbnail_c3d603fc1.png)
   
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
