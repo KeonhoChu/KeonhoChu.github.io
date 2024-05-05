@@ -100,45 +100,29 @@ content:
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
+
   - title: Open Projects
-    layout: list
-    contents:
-      - layout: top-middle
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
-        link: github.com/Keonhochu
+        link:  github.com/Keonhochu
         link_text: Project Website
         additional_links:
-          - title: KeonhoChu/SNUDH---AI
+          - title:  KeonhoChu/SNUDH---AI
             icon: fab fa-github
             url: github.com/KeonhoChu/SNUDH---AI
-          - title: 2023 HealthCare AI Competition SNUDH
-            icon: fab fa-github
-            url: https://github.com/KeonhoChu/SNUDH---AI
-        quote: "note: 서울대"
-        description: |
-          dfdfs
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
 
-# content:
-#   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 1
-#          # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: Infectious Disease Pandemic Outcome Prediction Project
-#         link: github.com/sproogen
-#         link_text: Project Website
-#         additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: |
-#           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
-#         description: | # this will include new lines to allow paragraphs
-#          A
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
