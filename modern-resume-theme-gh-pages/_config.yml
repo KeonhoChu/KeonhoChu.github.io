@@ -101,7 +101,7 @@ content:
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
 content:
-  - layout: top-middle
+  - layout: list
     title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
     link: github.com/Keonhochu
     link_text: Project Website
