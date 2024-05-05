@@ -76,7 +76,9 @@ content:
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
     
 
-
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
         title: Analysis of the frequency of dengue fever among domestic travelers
         #link: github.com/sproogen
         # link_text: Project Website
