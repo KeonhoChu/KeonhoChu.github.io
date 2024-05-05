@@ -118,9 +118,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          # Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
 
           
   - title: Experience # Title for the section
