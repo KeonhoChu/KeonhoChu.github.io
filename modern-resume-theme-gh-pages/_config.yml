@@ -75,34 +75,29 @@ about_content: |  # this will include new lines to allow paragraphs
 #         description: | # this will include new lines to allow paragraphs
 #          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 content:
-  - title: "<mark>Korea Disease Control and Prevention Agency</mark> Projects" # Title for the section
+  - title: "<mark>Korea Disease Control and Prevention Agency</mark>" # Title for the section
+    quote: |
+      note: Details are <mark>Confidential</mark> and cannot be disclosed.  
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Infectious Disease Pandemic Outcome Prediction Project
-        quote: |
-          note: Details are <mark>Confidential</mark> and cannot be disclosed.
+          
         description: |
           As a project to predict the occurrence of infectious diseases caused by Pandemic, regression analysis was used using <mark>ML</mark> using table data.
 
       - layout: top-middle
-        title: Analysis of the frequency of dengue fever among domestic travelers
-        quote: |
-          note: Details are <mark>Confidential</mark> and cannot be disclosed.
+        title: Analysis of the frequency of dengue fever among domestic travelers          
         description: |
           Second project
 
       - layout: top-middle
         title: A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic
-        quote: |
-          note: Details are <mark>Confidential</mark> and cannot be disclosed.
         description: |
           Third project
 
       - layout: top-middle
         title: Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
-        quote: |
-          note: Details are <mark>Confidential</mark> and cannot be disclosed.
         description: |
           Fourth project
     
