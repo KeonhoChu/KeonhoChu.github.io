@@ -121,41 +121,41 @@ content:
         description: | # this will include new lines to allow paragraphs
           ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
    
-      # - layout: left
-      #   border: weak  # Value of `weak` will display a weak border below this item. # Any 
-      #                 # other value (or no value) means no border will be displayed
-      #   title: Development of a predictive model for B2B business opportunity creation based on MQL data in LG
-      #   link:  github.com/KeonhoChu
-      #   link_text: Project Website
-      #   additional_links:
-      #     - title:  KeonhoChu/SNUDH---AI
-      #       icon: fab fa-github
-      #       url: github.com/KeonhoChu/SNUDH---AI
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-      #   quote: >
-      #     Award-winning performance: final (59th/844) 
-      #   description: | # this will include new lines to allow paragraphs
-      #     ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Development of a predictive model for B2B business opportunity creation based on MQL data in LG
+        link:  github.com/KeonhoChu
+        link_text: Project Website
+        additional_links:
+          - title:  KeonhoChu/SNUDH---AI
+            icon: fab fa-github
+            url: github.com/KeonhoChu/SNUDH---AI
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Award-winning performance: final (59th/844) 
+        description: | # this will include new lines to allow paragraphs
+          ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
   
-      # - layout: left
-      #   border: weak  # Value of `weak` will display a weak border below this item. # Any 
-      #                 # other value (or no value) means no border will be displayed
-      #   title: 2024 Digital Heritage Festa AI Heritage Competition Entry Description
-      #   link:  https://github.com/KeonhoChu/National-Heritage-AI-Contest
-      #   link_text: Project Website
-      #   additional_links:
-      #     - title:  KeonhoChu/National-Heritage-AI-Contest
-      #       icon: fab fa-github
-      #       url: github.com/KeonhoChu/National-Heritage-AI-Contest
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-      #   quote: >
-      #     The AI Heritage Contest is a contest that uses AI technology to recreate and reinterpret our national heritage to give it value as a digital heritage and create new content.
-      #   description: | # this will include new lines to allow paragraphs
-      #     ![백제의 영혼](https://raw.githubusercontent.com/KeonhoChu/National-Heritage-AI-Contest/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9%E1%86%AB.webp)    
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 2024 Digital Heritage Festa AI Heritage Competition Entry Description
+        link:  https://github.com/KeonhoChu/National-Heritage-AI-Contest
+        link_text: Project Website
+        additional_links:
+          - title:  KeonhoChu/National-Heritage-AI-Contest
+            icon: fab fa-github
+            url: github.com/KeonhoChu/National-Heritage-AI-Contest
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          The AI Heritage Contest is a contest that uses AI technology to recreate and reinterpret our national heritage to give it value as a digital heritage and create new content.
+        description: | # this will include new lines to allow paragraphs
+          ![백제의 영혼](https://raw.githubusercontent.com/KeonhoChu/National-Heritage-AI-Contest/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9%E1%86%AB.webp)    
  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
