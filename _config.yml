@@ -83,7 +83,7 @@ content:
   - title: Diclosed Project in KDCA
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top
         title: Infectious Disease Pandemic Outcome Prediction Project
         description: |
           A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
