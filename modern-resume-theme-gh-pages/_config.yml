@@ -98,7 +98,7 @@ content:
         description: |
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
       - layout: top-middle
-        title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
+        title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be disclosed.  
 
   - title: Open Projects
     layout: list # Type of content section (list/text)
@@ -106,7 +106,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
+        title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in <mark>SNUDH</mark>
         link:  github.com/KeonhoChu/SNUDH---AI
         link_text: Project Website
         additional_links:
@@ -117,14 +117,14 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Award-winning performance: 3rd place 
+          Award-winning performance: <mark>3rd place</mark>
         description: | # this will include new lines to allow paragraphs
           ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
    
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Development of a predictive model for B2B business opportunity creation based on MQL data in LG
+        title: Development of a predictive model for B2B business opportunity creation based on MQL data in <mark>LG</mark>
         link:  github.com/KeonhoChu
         link_text: Project Website
         additional_links:
@@ -135,7 +135,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Award-winning performance: final (59th/844) 
+          Award-winning performance: <mark>final (59th/844)</mark>
         description: | # this will include new lines to allow paragraphs
           ![LG Aimers](https://www.lgresearch.ai/data/upload/image/blog/LG_AI_Research_LG_Aimer_Hackathon_thumbnail_c3d603fc1.png)
   
@@ -153,7 +153,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          The AI Heritage Contest is a contest that uses AI technology to recreate and reinterpret our national heritage to give it value as a digital heritage and create new content.
+          The AI Heritage Contest is a contest that uses AI technology to recreate and reinterpret our national heritage to give it value as a digital heritage and create new content.
         description: | # this will include new lines to allow paragraphs
           ![백제의 영혼](https://raw.githubusercontent.com/KeonhoChu/National-Heritage-AI-Contest/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9%E1%86%AB.webp)    
  
@@ -161,30 +161,69 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Korea Disease Control and Prevention Agency
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Data Analyst intern
+        caption: November 2023 - January 2024
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+           "Experience is not what happens to you; it's what you do with what happens to you."
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            As a Data Analyst intern at the Korea Disease Control and Prevention Agency, I was involved in various projects related to data analysis and interpretation. My responsibilities included collecting, cleaning, and analyzing data to identify trends and patterns that could inform public health strategies. I also collaborated with other team members to produce reports and presentations summarizing our findings and recommendations.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Bionutrion
+        link_text: bionutrion.kr
+        sub_title: LLM Ai Engineer
+        caption: April 2024 - Currently in progress
+        quote: >
+           "The journey of a thousand miles begins with one step."
+        description: |
+           Bionutrion is a company developing digital therapeutic devices related to nutrition. As an LLM AI Engineer, my role involves developing and implementing machine learning algorithms to analyze nutritional data and provide personalized recommendations for users. I work closely with a multidisciplinary team to design and optimize algorithms that improve the effectiveness of our digital therapeutic solutions.
+    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Konkuk University
+        caption: 2015 - 2021
+        sub_title: BSc Biomedical Engineering 
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+           "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+           My undergraduate studies at Konkuk University focused on Biomedical Engineering, where I gained knowledge in various areas such as biology, chemistry, and engineering principles applied to medical devices and systems. Through coursework, projects, and internships, I developed skills in data analysis, problem-solving, and interdisciplinary collaboration, preparing me for a career in the healthcare industry.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Completion of S/W development and application expert training using medical bio-AI (KDT)
+        caption: 2023.02 - 2023.07
+        sub_title: linked to Chungbuk National University Hospital
+        quote: >
+            "Continuous learning is the key to unlocking your full potential."
+        description: |
+            During the S/W development and application expert training using medical bio-AI (KDT) program, I acquired advanced skills in software development and applications, specifically focused on medical bioinformatics and artificial intelligence. The program, linked to Chungbuk National University Hospital, provided hands-on training and practical experience in developing software solutions for medical data analysis and interpretation. Through this intensive training, I enhanced my understanding of medical informatics and AI technologies, preparing me to contribute effectively to healthcare innovation.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Completion of the Tablo boot camp
+        caption: 2023.10 - 2023.11
+        sub_title: Tableau
+        quote: >
+           "Success is not final, failure is not fatal: It is the courage to continue that counts."
+        description: |
+           The completion of the Tablo boot camp in 2023 provided me with comprehensive training in Tableau, a powerful data visualization tool. During this intensive program, I gained practical experience in creating interactive dashboards, designing insightful visualizations, and interpreting data to drive business decisions. Through hands-on projects and exercises, I developed proficiency in using Tableau to analyze complex datasets and communicate findings effectively to stakeholders.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: LG Aimers/Data Intelligence
+        caption: 2024.01 ~ 2024.02
+        sub_title: LG AI researcher
+        quote: >
+           "Innovation distinguishes between a leader and a follower."
+        description: |
+            During my time at LG Aimers/Data Intelligence as an AI researcher, I was involved in cutting-edge research and development projects focused on advancing artificial intelligence technologies. My responsibilities included conducting experiments, analyzing data, and developing algorithms to enhance the performance of AI systems. I collaborated closely with multidisciplinary teams to explore new ideas, solve complex problems, and deliver innovative solutions that meet the needs of LG's customers and stakeholders.
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
