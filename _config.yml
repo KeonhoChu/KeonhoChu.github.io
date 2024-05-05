@@ -209,7 +209,8 @@ content:
         quote: >
            "Success is not final, failure is not fatal: It is the courage to continue that counts."
         description: |
-           The completion of the Tablo boot camp in 2023 provided me with comprehensive training in Tableau, a powerful data visualization tool. During this intensive program, I gained practical experience in creating interactive dashboards, designing insightful visualizations, and interpreting data to drive business decisions. Through hands-on projects and exercises, I developed proficiency in using Tableau to analyze complex datasets and communicate findings effectively to stakeholders.
+           The completion of the Tableau boot camp in 2023 provided me with comprehensive training in Tableau, a powerful data visualization tool. During this intensive program, I gained practical experience in creating interactive dashboards, designing insightful visualizations, and interpreting data to drive business decisions. Through hands-on projects and exercises, I developed proficiency in using Tableau to analyze complex datasets and communicate findings effectively to stakeholders.
+
     
       - layout: left
         title: LG Aimers/Data Intelligence
