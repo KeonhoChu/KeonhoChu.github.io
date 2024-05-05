@@ -101,8 +101,9 @@ content:
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
   - title: Open Projects
-    content:
-      - layout: list
+    layout: list
+    contents:
+      - layout: top-middle
         title: Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH
         link: github.com/Keonhochu
         link_text: Project Website
@@ -117,6 +118,27 @@ content:
         description: |
           dfdfs
 
+# content:
+#   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 1
+#          # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: Infectious Disease Pandemic Outcome Prediction Project
+#         link: github.com/sproogen
+#         link_text: Project Website
+#         additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         quote: |
+#           note : Details are <mark>Confidential</mark> and cannot be disclosed.
+          
+#         description: | # this will include new lines to allow paragraphs
+#          A
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
