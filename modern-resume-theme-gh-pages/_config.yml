@@ -70,42 +70,7 @@ content:
           note : Details are <mark>Confidential<mark> and cannot be disclosed.
         description: | # this will include new lines to allow paragraphs
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML<mark> using table data.
-     
-      - layout: top-middle
-        title: Analysis of the frequency of Dengue fever among domestic travelers
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This project was carried out by the Virus Analysis Division of the Korea Centers for Disease Control and Prevention.
-          note : Details are <mark>Confidential<mark> and cannot be disclosed.
-        description: | # this will include new lines to allow paragraphs
-         The relationship between the frequency and season of Dengue infection among travelers in Southeast Asia throughout the year was analyzed
-       
-     - layout: top-middle
-      title: Infectious Disease Pandemic Outcome Prediction Project
-      #link: github.com/sproogen
-      # link_text: Project Website
-      #additional_links:
-       # - title:  sproogen/modern-resume-theme
-        #  icon: fab fa-github
-         # url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      quote: >
-        This project was carried out by the Virus Analysis Division of the Korea Centers for Disease Control and Prevention.
-        note : Details are <mark>Confidential<mark> and cannot be disclosed.
-      description: | # this will include new lines to allow paragraphs
-       As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML<mark> using table data.
-         
-         
+   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
