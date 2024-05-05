@@ -110,11 +110,11 @@ content:
         link_text: Project Website
         additional_links:
           - title: KeonhoChu/SNUDH---AI
-              icon: fab fa-github
-                url: https://github.com/KeonhoChu/SNUDH---AI
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/SNUDH---AI
           - title: "2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project]"
-              icon: fab fa-github
-                url: https://github.com/KeonhoChu/SNUDH---AI
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/SNUDH---AI
         quote: |
           note: 서울대
         description: | # this will include new lines to allow paragraphs
