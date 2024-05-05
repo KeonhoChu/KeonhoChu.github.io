@@ -76,11 +76,7 @@ content:
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
     
 
-  - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 2
-        
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
+
         title: Analysis of the frequency of dengue fever among domestic travelers
         #link: github.com/sproogen
         # link_text: Project Website
@@ -97,8 +93,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          second project
 
-  - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 3
-         # Title for the section
+
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
