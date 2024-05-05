@@ -75,9 +75,7 @@ about_content: |  # this will include new lines to allow paragraphs
 #         description: | # this will include new lines to allow paragraphs
 #          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 content:
-  - title: "<mark>Korea Disease Control and Prevention Agency</mark>" # Title for the section
-    quote: |
-      note: Details are <mark>Confidential</mark> and cannot be disclosed.  
+  - title: Diclosed Project in KDCA
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -99,7 +97,8 @@ content:
         title: Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
         description: |
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
-
+      - layout: top-middle
+        title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
