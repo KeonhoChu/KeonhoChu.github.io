@@ -77,7 +77,7 @@ content:
     
 
   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 2
-         # Title for the section
+        
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -95,7 +95,7 @@ content:
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
-        second project
+         second project
 
   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 3
          # Title for the section
@@ -116,7 +116,7 @@ content:
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
-        3rd project
+         3rd project
 
   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 4
          # Title for the section
