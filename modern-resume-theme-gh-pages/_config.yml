@@ -11,7 +11,7 @@ email: gunho1358@naver.com
 website: www.github.com/keonhoChu
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  KeonhoChu
@@ -44,7 +44,7 @@ linkedin_username: keonho-chu
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pro1.jpeg
 about_content: |  # this will include new lines to allow paragraphs
   Hi, my name's Keonho and I'm a junior Ai Engineer.
   
@@ -169,8 +169,7 @@ content:
            "Experience is not what happens to you; it's what you do with what happens to you."
         description: | # this will include new lines to allow paragraphs
             As a Data Analyst intern at the Korea Disease Control and Prevention Agency, I was involved in various projects related to data analysis and interpretation. My responsibilities included collecting, cleaning, and analyzing data to identify trends and patterns that could inform public health strategies. I also collaborated with other team members to produce reports and presentations summarizing our findings and recommendations.
-    layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
         title: Bionutrion
         link_text: bionutrion.kr
@@ -185,36 +184,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Konkuk University
+        title: Konkuk University  
         caption: 2015 - 2021
-        sub_title: BSc Biomedical Engineering 
+        sub_title: BS Biomedical Engineering 
         quote: >
            "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
         description: | # this will include new lines to allow paragraphs
            My undergraduate studies at Konkuk University focused on Biomedical Engineering, where I gained knowledge in various areas such as biology, chemistry, and engineering principles applied to medical devices and systems. Through coursework, projects, and internships, I developed skills in data analysis, problem-solving, and interdisciplinary collaboration, preparing me for a career in the healthcare industry.
-    layout: list # Type of content section (list/text)
-    content:
+    
       - layout: left
         title: Completion of S/W development and application expert training using medical bio-AI (KDT)
         caption: 2023.02 - 2023.07
-        sub_title: linked to Chungbuk National University Hospital
+        sub_title: Linked to Chungbuk National University Hospital
         quote: >
             "Continuous learning is the key to unlocking your full potential."
         description: |
             During the S/W development and application expert training using medical bio-AI (KDT) program, I acquired advanced skills in software development and applications, specifically focused on medical bioinformatics and artificial intelligence. The program, linked to Chungbuk National University Hospital, provided hands-on training and practical experience in developing software solutions for medical data analysis and interpretation. Through this intensive training, I enhanced my understanding of medical informatics and AI technologies, preparing me to contribute effectively to healthcare innovation.
 
-    layout: list # Type of content section (list/text)
-    content:
+    
       - layout: left
-        title: Completion of the Tablo boot camp
+        title: Completion of the Tableau boot camp
         caption: 2023.10 - 2023.11
         sub_title: Tableau
         quote: >
            "Success is not final, failure is not fatal: It is the courage to continue that counts."
         description: |
            The completion of the Tablo boot camp in 2023 provided me with comprehensive training in Tableau, a powerful data visualization tool. During this intensive program, I gained practical experience in creating interactive dashboards, designing insightful visualizations, and interpreting data to drive business decisions. Through hands-on projects and exercises, I developed proficiency in using Tableau to analyze complex datasets and communicate findings effectively to stakeholders.
-    layout: list # Type of content section (list/text)
-    content:
+    
       - layout: left
         title: LG Aimers/Data Intelligence
         caption: 2024.01 ~ 2024.02
@@ -227,15 +223,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      Alongside my interests in AI engineering some of my other interests and hobbies are:
+      - Stock trading : Tesla, Nvidia, Intel etc...
+      - Gaming : LostArk, League of Legends, Battleground etc...
+      - Participation In the Festival 
+      - ESG : Save Earth! 
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
