@@ -76,6 +76,24 @@ content:
          
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 
+    content:
+      - layout: top-middle
+        title: Infectious Disease Pandemic Outcome Prediction Project
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: |
+          note : Details are <mark>Confidential</mark> and cannot be disclosed.
+          
+        description: |
+        hi
+        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
