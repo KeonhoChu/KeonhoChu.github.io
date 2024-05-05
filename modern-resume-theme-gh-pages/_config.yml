@@ -76,6 +76,10 @@ content:
          
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
         title: Infectious Disease Pandemic Outcome Prediction Project22
         #link: github.com/sproogen
         # link_text: Project Website
@@ -90,7 +94,9 @@ content:
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
-         This project w
+         This project was carried out by the Virus Analysis Division of the <mark>Korea Disease Control and Prevention Agency</mark>.
+    
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
