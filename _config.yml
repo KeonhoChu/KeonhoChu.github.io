@@ -38,16 +38,16 @@ linkedin_username: keonho-chu
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+gtm: "	GTM-MFMCL8L4"
+gtag: "G-N33LLK7MJV"
+google_analytics: "G-N33LLK7MJV"
 # Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-N33LLK7MJV"
-    anonymize_ip         : # true, false (default)
+# analytics:
+#   provider               : "google-gtag" 
+#                           # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "G-N33LLK7MJV"
+#     anonymize_ip         : # true, false (default)
 
 # About Section
 # about_title: About Me
