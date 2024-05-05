@@ -42,13 +42,12 @@ gtm: "	GTM-MFMCL8L4"
 gtag: "G-N33LLK7MJV"
 google_analytics: "G-N33LLK7MJV"
 # Analytics
-# analytics:
-#   provider               : "google-gtag" 
-#                           # false (default), "google", "google-universal", "google-gtag", "custom"
-#   google:
-#     tracking_id          : "G-N33LLK7MJV"
-#     anonymize_ip         : # true, false (default)
-
+analytics:
+  provider: "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: "G-N33LLK7MJV"  # Replace with your Google Analytics tracking ID
+    anonymize_ip: true  # You can set it to true or false as per your requirement
 # About Section
 # about_title: About Me
 about_profile_image: images/pro1.jpeg
