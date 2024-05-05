@@ -1,4 +1,4 @@
-# Site
+
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -140,7 +140,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
   
-  - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 2024 Digital Heritage Festa AI Heritage Competition Entry Description
