@@ -75,7 +75,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
     
-content:
+
   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 2
          # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,8 +95,8 @@ content:
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
-         As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
-content:
+        second project
+
   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 3
          # Title for the section
     layout: list # Type of content section (list/text)
@@ -116,8 +116,8 @@ content:
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
-         As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
-content:
+        3rd project
+
   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 4
          # Title for the section
     layout: list # Type of content section (list/text)
@@ -137,7 +137,7 @@ content:
           note : Details are <mark>Confidential</mark> and cannot be disclosed.
           
         description: | # this will include new lines to allow paragraphs
-         As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
+         4th project
 
 
   - title: Experience # Title for the section
@@ -179,28 +179,6 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")      
 
 # Footer
 footer_show_references: true
