@@ -75,6 +75,22 @@ about_content: |  # this will include new lines to allow paragraphs
 #         description: | # this will include new lines to allow paragraphs
 #          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 content:
+  - title: "Diclosed Project in KDCA"
+    layout: table
+    headers:
+      - Title
+      - Description
+    rows:
+      - Infectious Disease Pandemic Outcome Prediction Project
+      - A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
+      - Analysis of the frequency of dengue fever among domestic travelers
+      - Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
+      - A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic
+      - Development of a predictive program to anticipate future outbreaks of norovirus by considering the impact of the coronavirus pandemic on the timing and patterns of norovirus epidemics.
+      - Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
+      - Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
+
+content:
   - title: Diclosed Project in KDCA
     layout: list # Type of content section (list/text)
     content:
@@ -99,21 +115,6 @@ content:
           Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be <mark>disclosed</mark>.  
-  content:
-  - title: "Diclosed Project in KDCA"
-    layout: table
-    headers:
-      - Title
-      - Description
-    rows:
-      - Infectious Disease Pandemic Outcome Prediction Project
-      - A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
-      - Analysis of the frequency of dengue fever among domestic travelers
-      - Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
-      - A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic
-      - Development of a predictive program to anticipate future outbreaks of norovirus by considering the impact of the coronavirus pandemic on the timing and patterns of norovirus epidemics.
-      - Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
-      - Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
