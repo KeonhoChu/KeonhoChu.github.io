@@ -134,7 +134,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Development of a predictive model for B2B business opportunity creation based on MQL data in <mark>LG</mark>
-        link:  github.com/KeonhoChu
+        link:  github.com/KeonhoChu/LG_Ai
         link_text: Project Website
         additional_links:
           - title:  KeonhoChu/LG_Ai
