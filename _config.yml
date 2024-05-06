@@ -137,9 +137,9 @@ content:
         link:  github.com/KeonhoChu
         link_text: Project Website
         additional_links:
-          - title:  KeonhoChu/SNUDH---AI
+          - title:  KeonhoChu/LG_Ai
             icon: fab fa-github
-            url: github.com/KeonhoChu/SNUDH---AI
+            url: https://github.com/KeonhoChu/LG_Ai
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
