@@ -80,7 +80,7 @@ about_content: |  # this will include new lines to allow paragraphs
 #          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 
 content:
-  - title: Diclosed Project in KDCA
+  - title: Closed Project in KDCA
     layout: list # Type of content section (list/text)
     content:
       - layout: top
