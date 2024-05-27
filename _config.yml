@@ -20,7 +20,7 @@ github_username:  KeonhoChu
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: __chuuuuoooo
-linkedin_username: keonho-chu
+linkedin_username: 건호-추
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -38,10 +38,16 @@ linkedin_username: keonho-chu
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
+gtm: "	GTM-MFMCL8L4"
+gtag: "G-N33LLK7MJV"
+google_analytics: "G-N33LLK7MJV"
+# Analytics
+analytics:
+  provider: "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: "G-N33LLK7MJV"  # Replace with your Google Analytics tracking ID
+    anonymize_ip: true  # You can set it to true or false as per your requirement
 # About Section
 # about_title: About Me
 about_profile_image: images/pro1.jpeg
@@ -50,8 +56,7 @@ about_content: |  # this will include new lines to allow paragraphs
   
   I have experience in development and artificial intelligence and am currently in charge of LLM artificial intelligence development in my startup.
   
-  I am most skilled in: <mark>PYTHON</mark>
-
+  I am most skilled in: <img src="https://i.namu.wiki/i/mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.svg" alt="PYTHON" width="250" height="100">
 # content:
 #   - title: <mark>Korea Disease Control and Prevention Agency</mark> Project 1
 #          # Title for the section
@@ -75,28 +80,32 @@ about_content: |  # this will include new lines to allow paragraphs
 #          As a project to predict the occurrence of infectious diseases caused by Pendamic, regression analysis was used using <mark>ML</mark> using table data.
 
 content:
-  - title: Diclosed Project in KDCA
+  - title: Closed Project in KDCA
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top
         title: Infectious Disease Pandemic Outcome Prediction Project
         description: |
-          A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
+          - A project aimed at predicting the occurrence of infectious diseases caused by pandemics using regression analysis and machine learning techniques applied to tabular data.
 
-      - layout: top-middle
+      - layout: top
         title: Analysis of the frequency of dengue fever among domestic travelers
-        description: |
-          Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
 
-      - layout: top-middle
+        description: |
+          - Investigation into the frequency and spread of dengue fever among domestic travelers to understand the epidemiological dynamics of the disease.
+
+      - layout: top
         title: A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic
+       
         description: |
-          Development of a predictive program to anticipate future outbreaks of norovirus by considering the impact of the coronavirus pandemic on the timing and patterns of norovirus epidemics.
+          - Development of a predictive program to anticipate future outbreaks of norovirus by considering the impact of the coronavirus pandemic on the timing and patterns of norovirus epidemics.
 
-      - layout: top-middle
+      - layout: top
         title: Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data
+       
         description: |
-          Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
+          - Examination of domestic infectious disease statistics with a focus on analyzing data related to the residency status of foreign residents to identify potential patterns or correlations.
+    
       - layout: top-middle
         title: Details of all projects carried out by <mark>KDCA</mark> are <mark>Confidential</mark> and cannot be disclosed.  
 
@@ -125,12 +134,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Development of a predictive model for B2B business opportunity creation based on MQL data in <mark>LG</mark>
-        link:  github.com/KeonhoChu
+        link:  github.com/KeonhoChu/LG_Ai
         link_text: Project Website
         additional_links:
-          - title:  KeonhoChu/SNUDH---AI
+          - title:  KeonhoChu/LG_Ai
             icon: fab fa-github
-            url: github.com/KeonhoChu/SNUDH---AI
+            url: https://github.com/KeonhoChu/LG_Ai
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -185,7 +194,7 @@ content:
     content:
       - layout: left
         title: Konkuk University  
-        caption: 2015 - 2021
+        caption: March 2015 - February 2021
         sub_title: BS Biomedical Engineering 
         quote: >
            "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
@@ -194,7 +203,7 @@ content:
     
       - layout: left
         title: Completion of S/W development and application expert training using medical bio-AI (KDT)
-        caption: 2023.02 - 2023.07
+        caption: February 2023 - July 2023
         sub_title: Linked to Chungbuk National University Hospital
         quote: >
             "Continuous learning is the key to unlocking your full potential."
@@ -204,22 +213,59 @@ content:
     
       - layout: left
         title: Completion of the Tableau boot camp
-        caption: 2023.10 - 2023.11
+        caption: October 2023 - November 2023
         sub_title: Tableau
         quote: >
            "Success is not final, failure is not fatal: It is the courage to continue that counts."
         description: |
-           The completion of the Tablo boot camp in 2023 provided me with comprehensive training in Tableau, a powerful data visualization tool. During this intensive program, I gained practical experience in creating interactive dashboards, designing insightful visualizations, and interpreting data to drive business decisions. Through hands-on projects and exercises, I developed proficiency in using Tableau to analyze complex datasets and communicate findings effectively to stakeholders.
+           The completion of the Tableau boot camp in 2023 provided me with comprehensive training in Tableau, a powerful data visualization tool. During this intensive program, I gained practical experience in creating interactive dashboards, designing insightful visualizations, and interpreting data to drive business decisions. Through hands-on projects and exercises, I developed proficiency in using Tableau to analyze complex datasets and communicate findings effectively to stakeholders.
+
     
       - layout: left
         title: LG Aimers/Data Intelligence
-        caption: 2024.01 ~ 2024.02
+        caption: January 2024 - February 2024
         sub_title: LG AI researcher
         quote: >
            "Innovation distinguishes between a leader and a follower."
         description: |
             During my time at LG Aimers/Data Intelligence as an AI researcher, I was involved in cutting-edge research and development projects focused on advancing artificial intelligence technologies. My responsibilities included conducting experiments, analyzing data, and developing algorithms to enhance the performance of AI systems. I collaborated closely with multidisciplinary teams to explore new ideas, solve complex problems, and deliver innovative solutions that meet the needs of LG's customers and stakeholders.
-      
+ 
+  - title: Certificate
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: KT - Aice
+        sub_title: Date of acquisition
+        caption: 2023-10-28
+        quote: >
+          Certificate Issuing Authority: <mark>KT</mark>
+        description: |
+          <div style="width: 50%; margin: 0 auto;">
+            <img src="https://img.hankyung.com/photo/202307/AA.33883746.1.jpg" alt="kt aice" style="width: 50%;">
+          </div>
+      - layout: left
+        border: weak
+        title: Azure AI Fundamentals AI-900
+        sub_title: Date of acquisition
+        caption: 2023-07-14
+        quote: >
+          Certificate Issuing Authority: <mark>Microsoft</mark>
+        description: |
+          <div style="width: 50%; margin: 0 auto;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3cSI_Dsx2pWlonpWJpbwUC-Eg44Y-FO1wGGTZKd1Hg&s" alt="azure" style="width: 50%;">
+          </div>
+      - layout: left
+        border: weak
+        title: ADSP (Advanced Data Analytics Semi-Professional)
+        sub_title: Date of acquisition
+        caption: 2023-06-19
+        quote: >
+          Certificate Issuing Authority: <mark>Korea Data Agency</mark>
+        description: |
+          <div style="width: 50%; margin: 0 auto;">
+            <img src="https://velog.velcdn.com/images/zinu/post/313d9059-6d4e-4371-a386-aa068d478aa6/image.png" alt="adsp" style="width: 50%;">
+          </div>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
