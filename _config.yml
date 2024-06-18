@@ -280,10 +280,16 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI engineering some of my other interests and hobbies are:
-      - Stock trading : Tesla, Nvidia, Intel etc...
-      - Gaming : LostArk, League of Legends, Battleground etc...
-      - Participation In the Festival 
-      - ESG : Save Earth! 
+      - Stock trading : 
+        - <img src="https://i.namu.wiki/i/t4MRYSiiGzfKaRv6rnbmQfwdT9z2qHc5gnZDNwlDSrET9EOhbigRNSD5KVLaGPmEZBH5fdN5O_W6EOk5w2fZxi-rEhFl3jBxFcfX1C6Jyy-Go3DYTCc4dfGjraYSnJVjqcoaG8dbBa2NIBhVm2WGCA.svg" alt="Tesla" width="100" height="100">
+        - <img src="https://i.namu.wiki/i/lsUHNPIvkyUYZalTcIcZOK1LdbL6-DzHIlqxZNIT9DZbrwcrGmihGyjzu1QZPSv8Sqvuphhfep2a-0q0zN6i2E-IE0txnhfAeL8Pib782Qw7SNOiHvTSCOj7nQj2RzyvS-0Wog2YqYxT7gR77uQywQ.svg" alt="Nvidia" width="100" height="100">
+        - <img src="https://i.namu.wiki/i/aCxu-Mks1OOTfIy1PMWOu7aogJslbGNVBLN9p8kcpx4iDRU4__KyVE4-AlnCXTg0lAr9bOIq3q-vHy9ND0fOP5y3VD-d3sQ8yEhvBmJ7I04mgFke_NAlfeBYldyk3hzgZZaCrR3x1v1sfDyGh8dihg.svg" alt="APPLE" width="100" height="100">
+      - Gaming : 
+        - <img src="https://upload3.inven.co.kr/upload/2020/12/11/bbs/i14536196944.png" alt="LostArk" width="100" height="100">
+        - <img src="https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp" alt="League of Legends" width="100" height="100">
+        - <img src="https://i.namu.wiki/i/N9_2baFPhweto-R02X6dUBftA7xmZ68MAFzkNAMeOeYHm0Nzd2kvJcmEUXPhurw962nHsbyFG3hwdek89CLN2A.webp" alt="Battleground" width="100" height="100">
+      - Participation In the Festival
+      - ESG : Save Earth!
       
 # Footer
 footer_show_references: true
