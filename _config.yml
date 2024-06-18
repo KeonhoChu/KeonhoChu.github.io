@@ -123,6 +123,21 @@ content:
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
+        title: Brain Tumor Segmentation using U-Net in <mark>CBNUH</mark>
+        link: github.com/KeonhoChu/BrainTumor_CBNUH
+        link_text: Project Website
+        additional_links:
+          - title: KeonhoChu/BrainTumor_CBNUH
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/BrainTumor_CBNUH
+        quote: >
+          The objective is to accurately segment brain tumors to assist in medical diagnosis and treatment planning.
+        description: |
+          ![표지](https://i.namu.wiki/i/Ks820Gkfip4fs4Xs-z1v3p8QPTW-B6ZskH80CZeEjdpQsj_rNfb67sMMaxOIB-V8-uUesbMSgkpC1Kc0iZbpZA.svg)
+
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item.
         title: Sleeping Project(Lite Right) - K-digital Hackathon
         link: github.com/KeonhoChu/SleepingProject
         link_text: Project Website
