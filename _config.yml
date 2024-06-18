@@ -368,22 +368,25 @@ content:
           <div style="width: 50%; margin: 0 auto;">
             <img src="https://velog.velcdn.com/images/zinu/post/313d9059-6d4e-4371-a386-aa068d478aa6/image.png" alt="adsp" style="width: 50%;">
           </div>
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AI engineering some of my other interests and hobbies are:
-      - Stock trading : 
-        <div style="display: flex; gap: 10px;">
-          <img src="https://i.namu.wiki/i/t4MRYSiiGzfKaRv6rnbmQfwdT9z2qHc5gnZDNwlDSrET9EOhbigRNSD5KVLaGPmEZBH5fdN5O_W6EOk5w2fZxi-rEhFl3jBxFcfX1C6Jyy-Go3DYTCc4dfGjraYSnJVjqcoaG8dbBa2NIBhVm2WGCA.svg" alt="Tesla" width="250" height="250">
-          <img src="https://i.namu.wiki/i/lsUHNPIvkyUYZalTcIcZOK1LdbL6-DzHIlqxZNIT9DZbrwcrGmihGyjzu1QZPSv8Sqvuphhfep2a-0q0zN6i2E-IE0txnhfAeL8Pib782Qw7SNOiHvTSCOj7nQj2RzyvS-0Wog2YqYxT7gR77uQywQ.svg" alt="Nvidia" width="250" height="250">
-          <img src="https://i.namu.wiki/i/aCxu-Mks1OOTfIy1PMWOu7aogJslbGNVBLN9p8kcpx4iDRU4__KyVE4-AlnCXTg0lAr9bOIq3q-vHy9ND0fOP5y3VD-d3sQ8yEhvBmJ7I04mgFke_NAlfeBYldyk3hzgZZaCrR3x1v1sfDyGh8dihg.svg" alt="APPLE" width="250" height="250">
-        </div>
-      - Gaming : 
-        <div style="display: flex; gap: 10px;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Lost_Ark_logo.png" alt="LostArk" width="500" height="200">
-          <img src="https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp" alt="League of Legends" width="500" height="200">
-          <img src="https://i.namu.wiki/i/N9_2baFPhweto-R02X6dUBftA7xmZ68MAFzkNAMeOeYHm0Nzd2kvJcmEUXPhurw962nHsbyFG3hwdek89CLN2A.webp" alt="Battleground" width="500" height="200">
-        </div>
+- title: A Little More About Me
+  layout: text
+  content: |
+    ### Stock Trading
+
+    | **Company** | **Logo** |
+    |-------------|----------|
+    | **Tesla**   | <img src="https://i.namu.wiki/i/t4MRYSiiGzfKaRv6rnbmQfwdT9z2qHc5gnZDNwlDSrET9EOhbigRNSD5KVLaGPmEZBH5fdN5O_W6EOk5w2fZxi-rEhFl3jBxFcfX1C6Jyy-Go3DYTCc4dfGjraYSnJVjqcoaG8dbBa2NIBhVm2WGCA.svg" alt="Tesla" width="250" height="250"> |
+    | **Nvidia**  | <img src="https://i.namu.wiki/i/lsUHNPIvkyUYZalTcIcZOK1LdbL6-DzHIlqxZNIT9DZbrwcrGmihGyjzu1QZPSv8Sqvuphhfep2a-0q0zN6i2E-IE0txnhfAeL8Pib782Qw7SNOiHvTSCOj7nQj2RzyvS-0Wog2YqYxT7gR77uQywQ.svg" alt="Nvidia" width="250" height="250">  |
+    | **Apple**   | <img src="https://i.namu.wiki/i/aCxu-Mks1OOTfIy1PMWOu7aogJslbGNVBLN9p8kcpx4iDRU4__KyVE4-AlnCXTg0lAr9bOIq3q-vHy9ND0fOP5y3VD-d3sQ8yEhvBmJ7I04mgFke_NAlfeBYldyk3hzgZZaCrR3x1v1sfDyGh8dihg.svg" alt="Apple" width="250" height="250">  |
+
+    ### Gaming
+
+    | **Game**            | **Logo**                                                                                                                                                                                               |
+    |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Lost Ark**        | <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Lost_Ark_logo.png" alt="LostArk" width="500" height="200">                                                                                |
+    | **League of Legends** | <img src="https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp" alt="League of Legends" width="500" height="200">                           |
+    | **Battleground**    | <img src="https://i.namu.wiki/i/N9_2baFPhweto-R02X6dUBftA7xmZ68MAFzkNAMeOeYHm0Nzd2kvJcmEUXPhurw962nHsbyFG3hwdek89CLN2A.webp" alt="Battleground" width="500" height="200">                                |
+
       - Participation In the Festival
       - ESG : Save Earth!
 # Footer
