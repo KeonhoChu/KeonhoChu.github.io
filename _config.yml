@@ -189,7 +189,7 @@ content:
         quote: >
           On Going Project in Bionutrion
         description: |
-          <img src="https://github.com/KeonhoChu/KeonhoChu.github.io/blob/main/images/dr.coach.png?raw=true" alt="drcoach" width="200" height="100">
+          <img src="https://github.com/KeonhoChu/KeonhoChu.github.io/blob/main/images/dr.coach.png?raw=true" alt="drcoach" width="400" height="200">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
@@ -197,7 +197,7 @@ content:
         quote: >
           Award-winning performance: <mark>Passing the preliminary round</mark> - On Going Project
         description: |
-          <img src="https://techit.education/img/og_epson.png" alt="epson" width="200" height="100">
+          <img src="https://techit.education/img/og_epson.png" alt="epson" width="400" height="200">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
@@ -211,7 +211,7 @@ content:
         quote: >
           Award-winning performance: <mark>3rd place</mark>
         description: |
-          <img src="https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png" alt="2023 헬스케어 AI 경진대회(포스터" width="200" height="100">
+          <img src="https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png" alt="2023 헬스케어 AI 경진대회(포스터" width="400" height="200">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
@@ -225,7 +225,7 @@ content:
         quote: >
           The objective is to accurately segment brain tumors to assist in medical diagnosis and treatment planning.
         description: |
-          <img src="https://i.namu.wiki/i/Ks820Gkfip4fs4Xs-z1v3p8QPTW-B6ZskH80CZeEjdpQsj_rNfb67sMMaxOIB-V8-uUesbMSgkpC1Kc0iZbpZA.svg" alt="표지" width="200" height="100">
+          <img src="https://i.namu.wiki/i/Ks820Gkfip4fs4Xs-z1v3p8QPTW-B6ZskH80CZeEjdpQsj_rNfb67sMMaxOIB-V8-uUesbMSgkpC1Kc0iZbpZA.svg" alt="표지" width="400" height="200">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
@@ -239,7 +239,7 @@ content:
         quote: >
           Award-winning performance: Passing the preliminary round <mark> Top10 </mark>
         description: |
-          <img src="https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC1.png?raw=true" alt="표지" width="200" height="100">
+          <img src="https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC1.png?raw=true" alt="표지" width="400" height="200">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
@@ -253,7 +253,7 @@ content:
         quote: >
           Award-winning performance: <mark>final (59th/844)</mark>
         description: |
-          <img src="https://www.lgresearch.ai/data/upload/image/blog/LG_AI_Research_LG_Aimer_Hackathon_thumbnail_c3d603fc1.png" alt="LG Aimers" width="200" height="100">
+          <img src="https://www.lgresearch.ai/data/upload/image/blog/LG_AI_Research_LG_Aimer_Hackathon_thumbnail_c3d603fc1.png" alt="LG Aimers" width="400" height="200">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
@@ -267,7 +267,7 @@ content:
         quote: >
           The AI Heritage Contest is a contest that uses AI technology to recreate and reinterpret our national heritage to give it value as a digital heritage and create new content.
         description: |
-          <img src="https://raw.githubusercontent.com/KeonhoChu/National-Heritage-AI-Contest/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9%E1%86%AB.webp" alt="백제의 영혼" width="200" height="100">
+          <img src="https://raw.githubusercontent.com/KeonhoChu/National-Heritage-AI-Contest/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9%E1%86%AB.webp" alt="백제의 영혼" width="600" height="300">
 
 
   - title: Experience # Title for the section
@@ -374,15 +374,15 @@ content:
       Alongside my interests in AI engineering some of my other interests and hobbies are:
       - Stock trading : 
         <div style="display: flex; gap: 10px;">
-          <img src="https://i.namu.wiki/i/t4MRYSiiGzfKaRv6rnbmQfwdT9z2qHc5gnZDNwlDSrET9EOhbigRNSD5KVLaGPmEZBH5fdN5O_W6EOk5w2fZxi-rEhFl3jBxFcfX1C6Jyy-Go3DYTCc4dfGjraYSnJVjqcoaG8dbBa2NIBhVm2WGCA.svg" alt="Tesla" width="100" height="100">
-          <img src="https://i.namu.wiki/i/lsUHNPIvkyUYZalTcIcZOK1LdbL6-DzHIlqxZNIT9DZbrwcrGmihGyjzu1QZPSv8Sqvuphhfep2a-0q0zN6i2E-IE0txnhfAeL8Pib782Qw7SNOiHvTSCOj7nQj2RzyvS-0Wog2YqYxT7gR77uQywQ.svg" alt="Nvidia" width="100" height="100">
-          <img src="https://i.namu.wiki/i/aCxu-Mks1OOTfIy1PMWOu7aogJslbGNVBLN9p8kcpx4iDRU4__KyVE4-AlnCXTg0lAr9bOIq3q-vHy9ND0fOP5y3VD-d3sQ8yEhvBmJ7I04mgFke_NAlfeBYldyk3hzgZZaCrR3x1v1sfDyGh8dihg.svg" alt="APPLE" width="100" height="100">
+          <img src="https://i.namu.wiki/i/t4MRYSiiGzfKaRv6rnbmQfwdT9z2qHc5gnZDNwlDSrET9EOhbigRNSD5KVLaGPmEZBH5fdN5O_W6EOk5w2fZxi-rEhFl3jBxFcfX1C6Jyy-Go3DYTCc4dfGjraYSnJVjqcoaG8dbBa2NIBhVm2WGCA.svg" alt="Tesla" width="300" height="300">
+          <img src="https://i.namu.wiki/i/lsUHNPIvkyUYZalTcIcZOK1LdbL6-DzHIlqxZNIT9DZbrwcrGmihGyjzu1QZPSv8Sqvuphhfep2a-0q0zN6i2E-IE0txnhfAeL8Pib782Qw7SNOiHvTSCOj7nQj2RzyvS-0Wog2YqYxT7gR77uQywQ.svg" alt="Nvidia" width="300" height="300">
+          <img src="https://i.namu.wiki/i/aCxu-Mks1OOTfIy1PMWOu7aogJslbGNVBLN9p8kcpx4iDRU4__KyVE4-AlnCXTg0lAr9bOIq3q-vHy9ND0fOP5y3VD-d3sQ8yEhvBmJ7I04mgFke_NAlfeBYldyk3hzgZZaCrR3x1v1sfDyGh8dihg.svg" alt="APPLE" width="300" height="300">
         </div>
       - Gaming : 
         <div style="display: flex; gap: 10px;">
           <img src="https://upload3.inven.co.kr/upload/2020/12/11/bbs/i14536196944.png" alt="LostArk" width="100" height="100">
-          <img src="https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp" alt="League of Legends" width="100" height="100">
-          <img src="https://i.namu.wiki/i/N9_2baFPhweto-R02X6dUBftA7xmZ68MAFzkNAMeOeYHm0Nzd2kvJcmEUXPhurw962nHsbyFG3hwdek89CLN2A.webp" alt="Battleground" width="100" height="100">
+          <img src="https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp" alt="League of Legends" width="300" height="300">
+          <img src="https://i.namu.wiki/i/N9_2baFPhweto-R02X6dUBftA7xmZ68MAFzkNAMeOeYHm0Nzd2kvJcmEUXPhurw962nHsbyFG3hwdek89CLN2A.webp" alt="Battleground" width="300" height="300">
         </div>
       - Participation In the Festival
       - ESG : Save Earth!
