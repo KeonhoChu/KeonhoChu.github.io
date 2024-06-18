@@ -343,6 +343,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+<<<<<<< Updated upstream
         border: weak  # Value of `weak` will display a weak border below this item.
         title: Dr.Coach (Digital Therapeutics DTx) 
         link: https://play.google.com/store/apps/details?id=com.drcoach.bio_nutrion_android&hl=en_US
@@ -351,6 +352,17 @@ content:
           On Going Project in Bionutrion
         description: |
           ![drcoach](https://github.com/KeonhoChu/KeonhoChu.github.io/blob/main/images/dr.coach.png?raw=true | width=200 height=150)
+=======
+          border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                        # other value (or no value) means no border will be displayed
+          title: Dr.Coach (Digital Therapeutics DTx) 
+          link:  https://play.google.com/store/apps/details?id=com.drcoach.bio_nutrion_android&hl=en_US
+          link_text: Dr.Coach Website
+          quote: >
+            On Going Project in Bionutrion
+          description: | # this will include new lines to allow paragraphs
+            ![drcoach](https://github.com/KeonhoChu/KeonhoChu.github.io/blob/main/images/dr.coach.png?raw=true)
+>>>>>>> Stashed changes
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
