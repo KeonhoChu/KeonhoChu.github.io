@@ -114,7 +114,7 @@ content:
         link_text: Project Website
         additional_links:
           - title: KeonhoChu/SNUDH---AI
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: github.com/KeonhoChu/SNUDH---AI
         quote: >
           Award-winning performance: <mark>3rd place</mark>
@@ -128,7 +128,7 @@ content:
         link_text: Project Website
         additional_links:
           - title: KeonhoChu/BrainTumor_CBNUH
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: https://github.com/KeonhoChu/BrainTumor_CBNUH
         quote: >
           The objective is to accurately segment brain tumors to assist in medical diagnosis and treatment planning.
@@ -143,7 +143,7 @@ content:
         link_text: Project Website
         additional_links:
           - title: KeonhoChu/SleepingProject
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: https://github.com/KeonhoChu/SleepingProject
         quote: >
           Award-winning performance: Passing the preliminary round <mark> Top10 </mark>
@@ -157,7 +157,7 @@ content:
         link_text: Project Website
         additional_links:
           - title: KeonhoChu/LG_Ai
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: https://github.com/KeonhoChu/LG_Ai
         quote: >
           Award-winning performance: <mark>final (59th/844)</mark>
@@ -171,7 +171,7 @@ content:
         link_text: Project Website
         additional_links:
           - title: KeonhoChu/National-Heritage-AI-Contest
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: github.com/KeonhoChu/National-Heritage-AI-Contest
         quote: >
           The AI Heritage Contest is a contest that uses AI technology to recreate and reinterpret our national heritage to give it value as a digital heritage and create new content.
