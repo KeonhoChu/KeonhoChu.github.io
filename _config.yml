@@ -371,6 +371,8 @@ content:
 - title: A Little More About Me
   layout: text
   content: |
+    Alongside my interests in AI engineering some of my other interests and hobbies are:
+
     ### Stock Trading
 
     | **Company** | **Logo** |
@@ -386,7 +388,6 @@ content:
     | **Lost Ark**        | <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Lost_Ark_logo.png" alt="LostArk" width="500" height="200">                                                                                |
     | **League of Legends** | <img src="https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp" alt="League of Legends" width="500" height="200">                           |
     | **Battleground**    | <img src="https://i.namu.wiki/i/N9_2baFPhweto-R02X6dUBftA7xmZ68MAFzkNAMeOeYHm0Nzd2kvJcmEUXPhurw962nHsbyFG3hwdek89CLN2A.webp" alt="Battleground" width="500" height="200">                                |
-
       - Participation In the Festival
       - ESG : Save Earth!
 # Footer
