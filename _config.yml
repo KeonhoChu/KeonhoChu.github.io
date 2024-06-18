@@ -375,6 +375,20 @@ content:
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
+        title: Sleeping Project(Lite Right) - K-digital Hackathon
+        link: github.com/KeonhoChu/SleepingProject
+        link_text: Project Website
+        additional_links:
+          - title: KeonhoChu/SleepingProject
+            icon: fab fa-github
+            url: https://github.com/KeonhoChu/SleepingProject
+        quote: >
+          Award-winning performance: Passing the preliminary round <mark> Top10 </mark>
+        description: |
+          ![표지](https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC1.png?raw=true)
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item.
         title: Development of a predictive model for B2B business opportunity creation based on MQL data in <mark>LG</mark>
         link: github.com/KeonhoChu/LG_Ai
         link_text: Project Website
