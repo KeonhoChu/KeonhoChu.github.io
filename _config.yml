@@ -121,7 +121,7 @@ content:
           quote: >
             On Going Project in Bionutrion
           description: | # this will include new lines to allow paragraphs
-            ![drcoach](images/dr.coach.png)
+            ![drcoach](https://github.com/KeonhoChu/KeonhoChu.github.io/blob/main/images/dr.coach.png?raw=true)
 
       - layout: left
           border: weak  # Value of `weak` will display a weak border below this item. # Any 
