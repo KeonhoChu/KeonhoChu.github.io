@@ -1,6 +1,6 @@
 ---
 title: "Attention Is All You Need Review"
-date: "2024-03-20"
+date: "2025-12-02"
 tags: ["NLP", "Transformer", "Deep Learning"]
 summary: "The paper that introduced the Transformer architecture, revolutionizing NLP by relying entirely on attention mechanisms."
 ---
