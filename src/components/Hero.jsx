@@ -6,12 +6,12 @@ const Hero = () => {
         <section className="hero" id="home">
             <div className="container hero-content">
                 <h1 className="hero-title">
-                    Building the <br />
-                    <span className="gradient-text">Future Web</span>
+                    Hello, I'm <br />
+                    <span className="gradient-text">Keonho Chu</span>
                 </h1>
                 <p className="hero-subtitle">
-                    Creating premium digital experiences with modern technologies.
-                    Focusing on performance, accessibility, and design.
+                    AI Engineer & Researcher. <br />
+                    Building meaningful AI experiences.
                 </p>
                 <div className="hero-actions">
                     <button className="btn btn-primary">View Projects</button>
