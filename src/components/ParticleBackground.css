@@ -1,0 +1,53 @@
+/* ParticleBackground.css */
+.particle-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    transform-style: preserve-3d;
+    perspective: 1000px;
+    animation: rotate 14s infinite linear;
+    z-index: 0;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotateY(0deg) rotateX(0deg);
+    }
+
+    100% {
+        transform: rotateY(360deg) rotateX(360deg);
+    }
+}
+
+.particle {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    opacity: 0;
+    /* Variables --z, --y, --hue, --delay will be set inline */
+    background-color: hsla(var(--hue), 100%, 50%, 1);
+    animation: orbit 14s infinite;
+    animation-delay: var(--delay);
+}
+
+@keyframes orbit {
+    20% {
+        opacity: 1;
+    }
+
+    30% {
+        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(100px) rotateZ(var(--z));
+    }
+
+    80% {
+        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(100px) rotateZ(var(--z));
+        opacity: 1;
+    }
+
+    100% {
+        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(300px) rotateZ(var(--z));
+    }
+}
