@@ -1,29 +1,75 @@
+/* Hero Section */
 .hero {
+    position: relative;
     height: 100vh;
+    min-height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: var(--header-height);
-    background: radial-gradient(circle at 50% 50%, rgba(59, 130, 246, 0.05) 0%, transparent 50%);
+    overflow: hidden;
+    /* Dark background to make neon pop */
+    background-color: #111;
+}
+
+/* Optional: Background Image/Texture */
+.hero-bg-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://raw.githubusercontent.com/interaminense/repository-codepen/master/neon-codepen/bg-neon.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.2;
+    z-index: 0;
 }
 
 .hero-content {
+    position: relative;
+    z-index: 1;
     text-align: center;
-    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
 
-.hero-title {
-    font-size: 4rem;
-    font-weight: 800;
-    line-height: 1.1;
-    margin-bottom: var(--spacing-lg);
-    letter-spacing: -0.03em;
-}
-
-.hero-subtitle {
-    font-size: 1.25rem;
-    color: var(--text-secondary);
+.neon-wrapper {
     margin-bottom: var(--spacing-xl);
+}
+
+/* Font 2: Great Vibes (Cursive) */
+.hero-subtitle-neon {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    margin: 0;
+    margin-bottom: 0.5rem;
+    font-weight: normal;
+    color: #fff;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+/* Font 1: Monoton (Neon) */
+.hero-title-neon {
+    font-family: 'Monoton', cursive;
+    font-size: 6rem;
+    /* Large size for impact */
+    margin: 0;
+    font-weight: normal;
+    line-height: 1.1;
+    text-transform: uppercase;
+    color: #E91E63;
+    /* Pink base */
+    animation: neon-flicker 3s infinite alternate;
+}
+
+.hero-description {
+    margin-top: var(--spacing-lg);
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -32,39 +78,59 @@
 .hero-actions {
     display: flex;
     gap: var(--spacing-md);
-    justify-content: center;
+    margin-top: var(--spacing-xl);
 }
 
-.btn {
-    padding: 0.8rem 1.5rem;
-    border-radius: 8px;
-    font-weight: 600;
-    font-size: 1rem;
-    transition: all var(--transition-fast);
+/* Neon Animation Keyframes */
+@keyframes neon-flicker {
+
+    0%,
+    19%,
+    21%,
+    23%,
+    25%,
+    54%,
+    56%,
+    100% {
+        color: #E91E63;
+        text-shadow:
+            0 0 10px #E91E63,
+            0 0 20px #E91E63,
+            0 0 40px #E91E63,
+            0 0 80px #E91E63,
+            0 0 120px #E91E63;
+    }
+
+    20%,
+    24%,
+    55% {
+        color: #111;
+        text-shadow: none;
+    }
 }
 
-.btn-primary {
-    background: var(--text-primary);
-    color: var(--bg-primary);
-}
-
-.btn-primary:hover {
-    background: #e4e4e7;
-    transform: translateY(-2px);
-}
-
-.btn-secondary {
-    border: 1px solid var(--border-color);
-    color: var(--text-primary);
-}
-
-.btn-secondary:hover {
-    border-color: var(--text-primary);
-    background: rgba(255, 255, 255, 0.05);
-}
-
+/* Responsive Adjustments */
 @media (max-width: 768px) {
-    .hero-title {
-        font-size: 2.5rem;
+    .hero-subtitle-neon {
+        font-size: 2rem;
+    }
+
+    .hero-title-neon {
+        font-size: 3.5rem;
+    }
+
+    .hero-description {
+        font-size: 1rem;
+        padding: 0 var(--spacing-md);
+    }
+
+    .hero-actions {
+        flex-direction: column;
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .btn {
+        width: 100%;
     }
 }

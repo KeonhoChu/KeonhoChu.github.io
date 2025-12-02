@@ -4,15 +4,19 @@ import './Hero.css';
 const Hero = () => {
     return (
         <section className="hero" id="home">
+            <div className="hero-bg-overlay"></div>
             <div className="container hero-content">
-                <h1 className="hero-title">
-                    Hello, I'm <br />
-                    <span className="gradient-text">Keonho Chu</span>
-                </h1>
-                <p className="hero-subtitle">
-                    AI Engineer & Researcher. <br />
-                    Building meaningful AI experiences.
-                </p>
+                <div className="neon-wrapper">
+                    <h2 className="hero-subtitle-neon">Hello, I'm</h2>
+                    <h1 className="hero-title-neon">
+                        Keonho Chu
+                    </h1>
+                    <p className="hero-description">
+                        AI Engineer & Researcher. <br />
+                        Building meaningful AI experiences.
+                    </p>
+                </div>
+
                 <div className="hero-actions">
                     <button className="btn btn-primary">View Projects</button>
                     <button className="btn btn-secondary">Contact Me</button>

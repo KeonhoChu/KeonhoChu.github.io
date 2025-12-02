@@ -5,11 +5,11 @@ const About = () => {
     return (
         <section className="about" id="about">
             <div className="container about-content">
-                <h2 className="section-title">About Me</h2>
+                <h3 className="section-title">About Me</h3>
                 <div className="about-grid">
                     <div className="about-text">
                         <div className="current-role">
-                            <h3>AI Engineer</h3>
+                            <h2>AI Engineer</h2>
                             <p className="company-highlight">@ LIG System AI Tech Research Lab</p>
                         </div>
 
