@@ -16,11 +16,6 @@ const Hero = () => {
                         Building meaningful AI experiences.
                     </p>
                 </div>
-
-                <div className="hero-actions">
-                    <button className="btn btn-primary">View Projects</button>
-                    <button className="btn btn-secondary">Contact Me</button>
-                </div>
             </div>
         </section>
     );

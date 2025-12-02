@@ -15,22 +15,6 @@
     background: var(--bg-secondary);
     border: 1px solid var(--border-color);
     border-radius: 12px;
-    padding: var(--spacing-lg);
-    transition: all var(--transition-fast);
-    display: flex;
-    flex-direction: column;
-}
-
-.paper-card:hover {
-    transform: translateY(-5px);
-    border-color: var(--accent-primary);
-    background: var(--bg-tertiary);
-}
-
-.paper-meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-bottom: var(--spacing-sm);
     font-size: 0.85rem;
 }

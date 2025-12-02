@@ -75,12 +75,6 @@
     margin-right: auto;
 }
 
-.hero-actions {
-    display: flex;
-    gap: var(--spacing-md);
-    margin-top: var(--spacing-xl);
-}
-
 /* Neon Animation Keyframes */
 @keyframes neon-flicker {
 

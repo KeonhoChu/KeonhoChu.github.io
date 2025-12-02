@@ -29,22 +29,6 @@
 
 .latest-card {
     background: var(--bg-secondary);
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    padding: var(--spacing-md);
-    transition: all var(--transition-fast);
-}
-
-.latest-card:hover {
-    transform: translateY(-3px);
-    border-color: var(--accent-primary);
-    background: var(--bg-tertiary);
-}
-
-.latest-date {
-    font-size: 0.8rem;
-    color: var(--text-tertiary);
-    display: block;
     margin-bottom: var(--spacing-xs);
 }
 
