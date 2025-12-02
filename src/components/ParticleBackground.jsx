@@ -2,7 +2,7 @@ import React, { useMemo } from 'react';
 import './ParticleBackground.css';
 
 const ParticleBackground = () => {
-    const particleCount = 300;
+    const particleCount = 3600;
     const baseHue = 180; // Cyan/Blue range
 
     const particles = useMemo(() => {
