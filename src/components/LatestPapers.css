@@ -21,10 +21,43 @@
     text-decoration: underline;
 }
 
+.latest-papers {
+    padding: var(--spacing-xl) 0;
+    background-color: var(--bg-primary);
+    border-top: 1px solid var(--border-color);
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--spacing-lg);
+}
+
+.view-all-link {
+    color: var(--accent-primary);
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.view-all-link:hover {
+    text-decoration: underline;
+}
+
 .latest-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: var(--spacing-md);
+}
+
+.latest-date {
+    font-size: 0.9rem;
+    /* Increased from 0.8rem */
+    color: var(--text-tertiary);
+    display: block;
+    margin-bottom: var(--spacing-xs);
+    font-weight: 500;
+    /* Added weight for smoothness */
 }
 
 .latest-card {
@@ -50,9 +83,13 @@
 }
 
 .latest-tag {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
+    /* Increased from 0.75rem */
     color: var(--text-secondary);
     background: rgba(255, 255, 255, 0.05);
-    padding: 0.2rem 0.5rem;
+    padding: 0.2rem 0.6rem;
+    /* Slightly more padding */
     border-radius: 4px;
+    font-weight: 500;
+    /* Added weight */
 }
