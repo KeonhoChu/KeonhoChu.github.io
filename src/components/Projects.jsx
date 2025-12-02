@@ -1,4 +1,5 @@
 import React from 'react';
+import RevealOnScroll from './RevealOnScroll';
 import './Projects.css';
 
 const Projects = () => {
@@ -31,19 +32,21 @@ const Projects = () => {
             <div className="container">
                 <h2 className="section-title">Featured Projects</h2>
                 <div className="projects-grid">
-                    {projects.map((project) => (
-                        <div key={project.id} className="project-card">
-                            <div className="project-content">
-                                <h3 className="project-title">{project.title}</h3>
-                                <p className="project-description">{project.description}</p>
-                                <div className="project-tags">
-                                    {project.tags.map(tag => (
-                                        <span key={tag} className="project-tag">{tag}</span>
-                                    ))}
+                    {projects.map((project, index) => (
+                        <RevealOnScroll key={project.id} delay={index * 100}>
+                            <div className="project-card neon-card">
+                                <div className="project-content">
+                                    <h3 className="project-title">{project.title}</h3>
+                                    <p className="project-description">{project.description}</p>
+                                    <div className="project-tags">
+                                        {project.tags.map(tag => (
+                                            <span key={tag} className="project-tag">{tag}</span>
+                                        ))}
+                                    </div>
+                                    <a href={project.link} className="project-link">View Project →</a>
                                 </div>
-                                <a href={project.link} className="project-link">View Project →</a>
                             </div>
-                        </div>
+                        </RevealOnScroll>
                     ))}
                 </div>
             </div>

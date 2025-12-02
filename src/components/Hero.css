@@ -60,7 +60,7 @@
     font-weight: normal;
     line-height: 1.1;
     text-transform: uppercase;
-    color: #E91E63;
+    color: #212b80;
     /* Pink base */
     animation: neon-flicker 3s infinite alternate;
 }
