@@ -29,6 +29,28 @@
     font-family: 'Great Vibes', cursive;
     font-size: 2rem;
     display: block;
+    margin-top: 0.5rem;
+    color: var(--text-secondary);
+    font-weight: normal;
+}
+
+/* Font 1: Monoton (Neon) */
+.neon-text {
+    font-family: 'Monoton', cursive;
+    font-size: 6rem;
+    font-weight: normal;
+    line-height: 1.1;
+    text-transform: uppercase;
+    color: #212b80;
+    /* Pink base */
+    animation: neon-flicker 3s infinite alternate;
+    display: block;
+}
+
+.hero-subtitle {
+    margin-top: var(--spacing-lg);
+    font-size: 1.5rem;
+    color: var(--text-primary);
     line-height: 1.4;
     font-weight: 600;
 }
@@ -63,19 +85,32 @@
     24%,
     55% {
         color: #111;
-
-        .script-text {
-            font-size: 1.5rem;
-        }
-
-        .hero-buttons {
-            flex-direction: column;
-            width: 100%;
-            max-width: 300px;
-        }
-
-        .btn {
-            width: 100%;
-            text-align: center;
-        }
+        text-shadow: none;
     }
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .neon-text {
+        font-size: 3.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.2rem;
+    }
+
+    .script-text {
+        font-size: 1.5rem;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+}
