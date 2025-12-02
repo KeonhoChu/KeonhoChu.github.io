@@ -17,6 +17,17 @@
     border-radius: 12px;
     margin-bottom: var(--spacing-sm);
     font-size: 0.85rem;
+    padding: var(--spacing-lg);
+    display: flex;
+    flex-direction: column;
+}
+
+.paper-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--spacing-sm);
+    font-size: 0.85rem;
 }
 
 .paper-date {
