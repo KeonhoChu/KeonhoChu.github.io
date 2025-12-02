@@ -9,7 +9,7 @@ const Hero = () => {
             <ParticleBackground />
             <div className="hero-content">
                 <h1 className="hero-title">
-                    <span className="neon-text" data-text="CHUUUU__">CHUUUU__</span>
+                    <span className="neon-text" data-text="Keonho-Chu">Keonho-Chu</span>
                 </h1>
                 <p className="hero-subtitle">
                     AI Engineer & Researcher<br />
