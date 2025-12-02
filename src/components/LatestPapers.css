@@ -28,6 +28,7 @@
 }
 
 .latest-card {
+    display: block;
     background: var(--bg-secondary);
     margin-bottom: var(--spacing-xs);
     padding: var(--spacing-md);
