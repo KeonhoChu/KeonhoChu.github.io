@@ -39,15 +39,15 @@
     }
 
     30% {
-        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(200px) rotateZ(var(--z));
+        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(400px) rotateZ(var(--z));
     }
 
     80% {
-        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(200px) rotateZ(var(--z));
+        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(400px) rotateZ(var(--z));
         opacity: 1;
     }
 
     100% {
-        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(600px) rotateZ(var(--z));
+        transform: rotateZ(calc(-1 * var(--z))) rotateY(var(--y)) translateX(1200px) rotateZ(var(--z));
     }
 }
