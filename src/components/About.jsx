@@ -8,23 +8,40 @@ const About = () => {
                 <h2 className="section-title">About Me</h2>
                 <div className="about-grid">
                     <div className="about-text">
-                        <p>
-                            I am a passionate developer focused on creating intuitive and dynamic user experiences.
-                            With a strong foundation in modern web technologies, I love solving complex problems
-                            and bringing ideas to life through code.
-                        </p>
-                        <p>
-                            Always learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape.
-                        </p>
+                        <div className="current-role">
+                            <h3>AI Engineer</h3>
+                            <p className="company-highlight">@ LIG System AI Tech Research Lab</p>
+                        </div>
+
+                        <div className="experience-section">
+                            <h3 className="subsection-title">Work Experience ⭐</h3>
+                            <ul className="experience-list">
+                                <li className="experience-item">
+                                    <span className="company">LIG System</span>
+                                    <span className="role">AI Software Engineer</span>
+                                </li>
+                                <li className="experience-item">
+                                    <span className="company">Bionutrion (Bundang Seoul Nat'l Univ Hospital)</span>
+                                    <span className="role">AI Research Engineer</span>
+                                </li>
+                                <li className="experience-item">
+                                    <span className="company">Korea Disease Control Agency</span>
+                                    <span className="role">Machine Learning Engineer</span>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
+
                     <div className="skills-container">
                         <h3 className="skills-title">Tech Stack</h3>
                         <div className="skills-list">
+                            <span className="skill-tag">Python</span>
+                            <span className="skill-tag">PyTorch</span>
+                            <span className="skill-tag">LLM</span>
+                            <span className="skill-tag">RAG</span>
+                            <span className="skill-tag">FastAPI</span>
                             <span className="skill-tag">React</span>
-                            <span className="skill-tag">JavaScript</span>
-                            <span className="skill-tag">HTML/CSS</span>
-                            <span className="skill-tag">Node.js</span>
-                            <span className="skill-tag">Git</span>
+                            <span className="skill-tag">Docker</span>
                         </div>
                     </div>
                 </div>
